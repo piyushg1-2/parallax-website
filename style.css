@@ -1,0 +1,88 @@
+body{
+    background-image:url(./image.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      opacity: 0.5;
+     margin :0;
+     padding: 0;
+}
+
+.container{
+    
+    margin-top: 20rem;   
+    margin-left: 30rem;
+    color:white;  
+     width:30%;
+    background-color:black; 
+    letter-spacing: 4px;
+    font-size: xx-large;
+    text-transform: uppercase;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+
+}
+ .div2{
+            
+    background-color: white;
+    text-align: center;
+    padding:50px 30px;
+    margin-top: 225px;
+    
+
+
+}  
+ h1{
+    font-weight: bold;
+}
+.div3{
+    
+    margin-top: 175px;
+    margin-bottom: 175px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-size: xx-large;
+
+}
+.div4{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding:50px 30px;
+    margin-bottom: 225px;
+}
+.div5{
+    height:200px;
+    text-align: center;
+    padding:200x 30px;
+    color: white;
+    margin-bottom: 100px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-size: xx-large;
+}
+
+.div6{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding:50px 30px;
+    margin-bottom: 225px;
+}
+
+.contain{
+    margin-top: 20rem;   
+    margin-left: 30rem;
+    margin-bottom: 20rem;
+    color:white;  
+     width:30%;
+    background-color:black; 
+    letter-spacing: 4px;
+    font-size: xx-large;
+    text-transform: uppercase;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
